@@ -1,0 +1,13 @@
+[Verified 13-March-2019]
+
+Only rabbitmq dependency added
+
+Make sure jackson jars have same version
+Include models in both producer and comsumer
+Include messageConverter in both produce and consumer
+
+Run the application. 
+	First producer
+	Second consumer
+	Open rabbitmq console
+
